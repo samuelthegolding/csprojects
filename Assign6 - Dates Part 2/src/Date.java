@@ -27,6 +27,7 @@ public abstract class Date {
         }
     }
 
+    public int[] stuff(){return new int[3][3];}
     public void subtractDays(int days) {
         for (int i = 0; i < days; i++) {
             day--;
