@@ -1,2 +1,2 @@
 ﻿# csprojects
-This is my repository for my assignments for CS 1410
+This is my repository for a bunch of cs projects
